@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/12345678/12345678-12345678-1234-5678-1234-567812345678.png" alt="Cian's Profile">
-</p>
-
 # Hi there, I'm Cian 👋
 
 I'm a final year software development student with experience in Java, Python, C/C++, C#, HTML, MySQL, and MongoDB. I'm passionate about solving complex problems and learning new technologies that can make a difference.
@@ -15,6 +11,10 @@ I'm a final year software development student with experience in Java, Python, C
   <img src="https://img.shields.io/badge/HTML-Strong-blue?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-Intermediate-blue?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-Intermediate-blue?style=flat&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Ruby-Intermediate-blue?style=flat&logo=ruby&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-Strong-blue?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-Intermediate-blue?style=flat&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/React-Intermediate-blue?style=flat&logo=react&logoColor=white">
 </p>
 
 ## Projects
