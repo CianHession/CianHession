@@ -24,8 +24,8 @@ I'm a final year software development student with experience in Java, Python, C
 
 ## Education
 
-- [Atlantic Technological University Galway], [Bachelors of Science in Software Developement], [Septemeber 2022]
-- [Atlantic Technological University Galway], [Honours Bachelors of Science in Software Developement], [2023]
+- [Atlantic Technological University Galway], [Bachelors of Science in Software Developement], [Graduated: Septemeber 2022]
+- [Atlantic Technological University Galway], [Honours Bachelors of Science in Software Developement], [Graduating: 2023]
 
 ## Contact Me
 <p align="center">
