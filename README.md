@@ -19,7 +19,7 @@ I'm a final year software development student with experience in Java, Python, C
 
 ## Projects
 
-- [Fuelinator](link-to-project) - Final Year Project, Finds the cheapest fuel prices in any location using APIS
+- [Fuelinator](https://github.com/CianHession/Fuelinator) - Final Year Project, Finds the cheapest fuel prices in any location using APIS
 - There are many more you can find my public repositorys. 
 
 ## Education
