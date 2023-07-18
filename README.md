@@ -24,14 +24,14 @@ I'm a graudate software developer with experience in Java, Python, C/C++, C#, HT
 
 ## Education
 
-- [Atlantic Technological University Galway], [Bachelors of Science in Software Developement], [Graduated: Septemeber 2022], [Grade: 2.2],
-- [Atlantic Technological University Galway], [Honours Bachelors of Science in Software Developement], [Graduating: 2023], [Grade: 2.1],
+- [Atlantic Technological University Galway], [Bachelors of Science in Software Developement], [Graduated: Septemeber 2022], [Grade: 2.2]
+- [Atlantic Technological University Galway], [Honours Bachelors of Science in Software Developement], [Graduating: 2023], [Grade: 2.1]
 
 ## Contact Me
 <p align="center">
   <a href="https://www.linkedin.com/in/cian-hession/" alt="Linkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:cianhession1@gmail.com" alt="Email"><img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://hesh.tech/" alt="Website"><img src="https://img.shields.io/badge/-Website-blue?style=flat-square&logo=firefox&logoColor=white" /></a>
+  <a href="" alt="Website"><img src="https://img.shields.io/badge/-Website-blue?style=flat-square&logo=firefox&logoColor=white" /></a>
 </p>
 
-Thanks for visiting my profile! Feel free to contact me if you have any questions or would like to collaborate on a project.
+Thanks for visiting my profile! Feel free to contact me if you have any questions or would like to collaborate on a project or are seeking a passionate developer to join your team.
