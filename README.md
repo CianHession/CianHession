@@ -1,6 +1,6 @@
 # Hi there, I'm Cian 👋
 
-I'm a final year software development student with experience in Java, Python, C/C++, C#, HTML, MySQL, and MongoDB. I'm passionate about solving complex problems and learning new technologies that can make a difference.
+I'm a graudate software developer with experience in Java, Python, C/C++, C#, HTML, MySQL, and MongoDB. I'm passionate about solving complex problems and learning new technologies that can make a difference.
 
 ## Skills
 <p align="center">
@@ -24,8 +24,8 @@ I'm a final year software development student with experience in Java, Python, C
 
 ## Education
 
-- [Atlantic Technological University Galway], [Bachelors of Science in Software Developement], [Graduated: Septemeber 2022]
-- [Atlantic Technological University Galway], [Honours Bachelors of Science in Software Developement], [Graduating: 2023]
+- [Atlantic Technological University Galway], [Bachelors of Science in Software Developement], [Graduated: Septemeber 2022], [Grade: 2.2],
+- [Atlantic Technological University Galway], [Honours Bachelors of Science in Software Developement], [Graduating: 2023], [Grade: 2.1],
 
 ## Contact Me
 <p align="center">
