@@ -24,6 +24,7 @@ I'm a graudate software developer with experience in Java, Python, C/C++, C#, HT
 
 ## Education
 - [Atlantic Technological University Galway], [Honours Bachelors of Science in Software Developement], [Graduating: 2023], [Grade Achieved: 2.1]
+  
 - Modules Completed: Computer Technology | E-Business Administration | Essential Math’s for Computing | Software Design & Program
 Development 1 | Graphical User Interface & Web Development | Learning and Innovation Skills | Advanced Procedural
 Programming | Data Structures And Algorithms | Database Management | Project Management | Applied Networking
