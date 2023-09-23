@@ -16,6 +16,9 @@ I'm a graudate software developer with experience in Java, Python, C/C++, C#, HT
   <img src="https://img.shields.io/badge/Unity-Intermediate-blue?style=flat&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/React-Intermediate-blue?style=flat&logo=react&logoColor=white">
 </p>
+<b>Technical Skills:</b>
+Spring Boot | Spring MVC | Python | Java | Node | Packet Tracer| Google Cloud | MongoDB | Unity| React.js | Jest 
+JUnit | Visual Studio| MySQL| Jira | Git | PHP | JavaScript | Ruby on Rails | Jira | Linux | GitHub | Xamarin | C/C#
 
 ## Projects
 
